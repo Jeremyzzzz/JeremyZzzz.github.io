@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Jeremy's virtual home
 
 You can use the [editor on GitHub](https://github.com/Jeremyzzzz/Jeremyzzzz.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
